@@ -9,8 +9,8 @@ from resources.lib.modules import cache
 
 class source:
     def __init__(self):
-        self.domains = ['filmbaratok.org']
-        self.base_link = 'http://filmbaratok.org'
+        self.domains = ['filmbaratok.org'] 
+        self.base_link = 'http://filmbaratok.org' 
         self.search_link = '/search/?%s'
         self.user = control.setting('filmbaratok.user')
         self.password = control.setting('filmbaratok.pass')

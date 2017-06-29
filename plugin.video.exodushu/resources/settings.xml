@@ -122,7 +122,7 @@
 		<setting id="sorozatbarat.user" type="text" label="32303" default="" />
 		<setting id="sorozatbarat.pass" type="text" option="hidden" label="32307" default="" />
 		<setting type="sep" />
-		<setting type="lsep" label="filmbaratok.org" />
+		<setting type="lsep" label="filmbaratok.org"  />
 		<setting id="filmbaratok.user" type="text" label="32303" default="" />
 		<setting id="filmbaratok.pass" type="text" option="hidden" label="32307" default="" />
 		<setting type="sep" />
